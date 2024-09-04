@@ -1,2 +1,2 @@
-## Hi there 👋
-WELCOME TO D & L AUTO SPA
+WELCOME TO D & L AUTO SPA 👋
+
