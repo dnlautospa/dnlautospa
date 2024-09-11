@@ -1,0 +1,31 @@
+{
+  "name": "jc-mobile",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^3.11.0",
+    "@next/font": "^13.4.19",
+    "autoprefixer": "10.4.15",
+    "emailjs": "^4.0.3",
+    "framer-motion": "^10.16.4",
+    "next": "13.4.19",
+    "next-cloudinary": "^4.23.0",
+    "next-videos": "^1.4.1",
+    "postcss": "8.4.30",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.11.0",
+    "sharp": "^0.32.6",
+    "tailwindcss": "3.3.3"
+  },
+  "devDependencies": {
+    "file-loader": "^6.2.0",
+    "raw-loader": "^4.0.2"
+  }
+}
